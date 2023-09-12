@@ -7,3 +7,6 @@ PS C:\Windows\system32> git config --global user.name "bocianos2005@gmail.com"
 
 inicjalizacja gita w projekcie
 git init
+
+dodanie plików do kontroli wersji
+git add .
