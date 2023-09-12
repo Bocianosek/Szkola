@@ -1,0 +1,9 @@
+GIT notatka
+
+pierwsze ustawienia
+
+PS C:\Windows\system32> git config --global user.name "Bocianos"
+PS C:\Windows\system32> git config --global user.name "bocianos2005@gmail.com"
+
+inicjalizacja gita w projekcie
+git init
