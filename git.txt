@@ -10,3 +10,10 @@ git init
 
 dodanie plików do kontroli wersji
 git add .
+
+sprawdzenie commitów
+git log
+
+przywrócenie commita:
+git checkout 92b35b5d69766366ed3763b7cfb8974a17387b38
+
